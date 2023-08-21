@@ -7,6 +7,7 @@
 # Education 
 
 Bachelor of Technology in Computer Science, RGPV university Bhopal
+
 # Technical Skills 
 
 FRONTEND:- HTML, CSS, JAVASCRIPT, BOOTSTRAP
@@ -16,6 +17,7 @@ BACKEND:- PHP, LARAVEL, JAVA
 DATABASE:- SQL, MYSQL
 
 Tools:- Git, GitHub, MS Office
+
 # Projects
 
 Home rental syestem
@@ -23,6 +25,7 @@ Home rental syestem
 Portfolio website
 
 Electromart online shopping website
+
 # Certifications
 
 Python
@@ -35,8 +38,7 @@ Python
 
 Email - harshalgavande2gmail.com
 
-Linkdin - 
-
+Linkdin - https://www.linkedin.com/in/harshal-gavande-6b337b281
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalgavande7724&show_icons=true&locale=en&layout=compact" alt="harshalgavande7724" /></p>
 
